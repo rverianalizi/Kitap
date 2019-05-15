@@ -1,0 +1,11 @@
+    isim boy kilo beden
+1    Ali 160   50     S
+2   Elif 165   55     M
+3     Su 170   57     S
+4  Deniz 155   50     M
+5   Aras 167   48     S
+6   Berk 162   65     L
+7    Can 169   58     M
+8    Ece 158   62     L
+9    Efe 160   45     S
+10  Arda 164   47     S

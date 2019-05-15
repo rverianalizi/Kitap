@@ -1,0 +1,9 @@
+Bes ogrencinin bes coktan secmeli maddeye verdikleri cevaplar
+						
+id	group   m1	m2	m3	m4	m5
+id1	B	C	B	D	B	A
+id2	B	C	B	D	B	A
+id3	A	B	D	C	A	E
+id4	A	E	D	C	E	E
+id5	A	B	D	C	A	E
+

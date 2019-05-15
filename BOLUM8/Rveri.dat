@@ -1,0 +1,121 @@
+Sinif	Cinsiyet	Ozyeterlik_1	Ozyeterlik_2	Ozyeterlik_3	Ozyeterlik_4	Ozyeterlik_5	Ozyeterlik_6	Ozyeterlik_7	Ozyeterlik_8	FenOzYet	FenPuan	Bolge
+8	1	2	2	3	2	2	3	2	2	-0.0537	334.273	Guneydogu Anadolu
+8	2	4	4	3	2	4	3	1	1	-0.7269	395.999	Guneydogu Anadolu
+8	2	2	4	4	1	1	1	3	2	0.0023	373.116	Akdeniz
+8	2	2	1	2	2	2	3	3	3	-0.0616	290.682	Guneydogu Anadolu
+8	1	1	1	1	1	1	1	1	1	3.2775	416.948	Guneydogu Anadolu
+8	2	2	2	2	2	2	2	2	2	0.3155	383.119	Orta Anadolu
+8	1	1	1	1	1	1	2	1	1	2.341	433.167	Bati Anadolu
+8	2	2	2	2	2	4	2	3	3	-0.4389	277.213	Akdeniz
+8	2	2	2	2	2	4	4	2	2	-0.4378	370.926	Guneydogu Anadolu
+8	2	1	1	2	2	2	3	4	3	-0.0681	327.336	Istanbul
+8	2	2	2	4	2	2	2	4	4	-0.7161	341.968	Bati Marmara
+8	1	1	1	3	1	1	1	1	1	1.8435	315.382	Istanbul
+8	2	2	2	2	2	2	2	2	2	0.3155	352.852	Guneydogu Anadolu
+8	2	2	3	3	3	2	3	3	3	-0.713	411.418	Bati Karadeniz
+8	2	3	3	3	4	3	3	3	3	-1.2307	318.404	Guneydogu Anadolu
+8	2	3	3	3	3	2	2	2	2	-0.3855	231.273	Guneydogu Anadolu
+8	2	1	1	2	1	2	2	1	4	0.7079	359.894	Guneydogu Anadolu
+8	2	1	1	2	1	2	1	2	1	1.4623	325.848	Guneydogu Anadolu
+8	1	3	3	4	4	2	4	4	2	-1.38	272.719	Guneydogu Anadolu
+8	2	3	4	3	4	2	3	2	3	-1.0297	371.996	Orta Anadolu
+8	1	2	2	2	2	2	2	2	2	0.3155	270.502	Kuzeydogu Anadolu
+8	2	1	1	1	1	1	1	1	1	3.2775	339.656	Dogu Karadeniz
+8	1	2	4	4	2	3	2	3	2	-0.7196	431.002	Kuzeydogu Anadolu
+8	2	3	3	4	4	3	4	3	3	-1.6018	397.418	Akdeniz
+8	2	2	2	4	4	2	2	2	1	-0.2503	292.008	Kuzeydogu Anadolu
+8	1	2	2	1	1	1	2	2	2	1.0039	361.939	Guneydogu Anadolu
+8	2	4	3	3	3	3	3	3	3	-1.2116	355.855	Akdeniz
+8	1	2	3	4	3	3	2	4	2	-0.8987	341.487	Guneydogu Anadolu
+8	1	1	2	2	2	1	2	2	1	0.9752	290.747	Guneydogu Anadolu
+8	1	1	1	1	2	1	1	2	1	1.8369	330.248	Guneydogu Anadolu
+9	2	1	1	4	4	1	4	1	1	0.1057	394.053	Ortadogu Anadolu
+9	1	2	2	2	2	2	2	2	2	0.3155	274.112	Ege
+9	2	1	2	3	2	2	3	3	3	-0.2339	346.323	Bati Karadeniz
+9	2	2	2	2	2	2	2	2	2	0.3155	421.782	Bati Anadolu
+9	1	1	1	1	1	1	1	1	1	3.2775	346.658	Dogu Marmara
+9	1	1	1	1	1	1	1	1	1	3.2775	371.133	Guneydogu Anadolu
+9	1	2	1	1	2	1	2	2	2	0.9743	294.908	Ortadogu Anadolu
+9	2	2	2	3	3	2	3	3	3	-0.5651	383.018	Ortadogu Anadolu
+9	1	2	2	2	2	2	2	2	2	0.3155	364.696	Ortadogu Anadolu
+9	2	3	3	3	3	3	3	3	3	-1.0524	273.139	Akdeniz
+9	2	2	2	2	2	2	2	2	2	0.3155	276.531	Guneydogu Anadolu
+9	1	2	1	1	2	1	2	2	2	0.9743	321.216	Bati Anadolu
+9	2	2	2	1	2	1	2	2	2	0.7605	460.014	Ege
+9	2	2	2	3	3	3	2	2	3	-0.4295	354.247	Guneydogu Anadolu
+9	2	1	1	4	1	4	1	2	1	0.4369	410.037	Bati Anadolu
+9	1	2	4	3	3	3	3	3	3	-1.0501	454.666	Ege
+9	2	2	2	3	2	2	2	2	2	0.1239	509.634	Istanbul
+9	2	2	2	2	2	2	2	2	2	0.3155	580.125	Guneydogu Anadolu
+9	2	1	1	1	1	1	1	1	1	3.2775	438.001	Istanbul
+9	1	1	1	1	2	2	1	2	2	1.1704	375.243	Istanbul
+9	2	1	2	2	2	4	4	3	3	-0.6063	298.419	Guneydogu Anadolu
+9	1	2	2	3	2	3	2	2	2	-0.0815	304.368	Akdeniz
+9	2	1	1	1	1	1	1	1	1	3.2775	539.553	Akdeniz
+9	2	2	2	1	2	3	2	3	2	0.1048	381.244	Guneydogu Anadolu
+9	1	2	2	1	2	1	1	2	2	0.9879	449.544	Akdeniz
+9	2	2	2	2	2	2	2	2	2	0.3155	346.636	Istanbul
+9	2	2	1	4	1	2	2	2	2	0.3088	364.439	Istanbul
+9	2	2	2	2	2	2	2	2	2	0.3155	372.786	Dogu Karadeniz
+9	2	2	2	2	2	3	4	2	2	-0.2477	556.821	Bati Karadeniz
+9	1	2	2	2	2	2	2	2	2	0.3155	337.816	Kuzeydogu Anadolu
+10	2	2	2	1	3	3	2	3	1	0.0952	562.719	Ege
+10	1	1	1	2	2	2	2	2	1	0.925	475.334	Akdeniz
+10	2	2	2	2	2	2	2	2	2	0.3155	389.757	Guneydogu Anadolu
+10	1	2	2	2	2	2	2	2	2	0.3155	344.842	Akdeniz
+10	2	1	1	3	4	1	3	4	4	-0.5686	396.253	Ortadogu Anadolu
+10	2	2	2	2	3	3	3	1	3	-0.2623	530.302	Istanbul
+10	1	2	2	2	2	3	3	2	2	-0.0775	445.001	Istanbul
+10	2	1	2	3	4	4	3	2	1	-0.4689	371.835	Bati Karadeniz
+10	2	2	1	1	1	1	1	2	1	1.8814	568.075	Istanbul
+10	1	2	1	1	1	1	1	3	3	0.9889	589.151	Ege
+10	2	1	1	1	1	1	1	1	2	2.3335	428.005	Bati Anadolu
+10	2	4	4	4	2	2	2	2	2	-0.6806	476.603	Akdeniz
+10	2	2	1	2	2	2	2	3	2	0.3055	412.277	Guneydogu Anadolu
+10	2	2	2	2	1	1	2	2	1	1.0014	568.277	Dogu Marmara
+10	1	2	2	2	4	3	4	4	2	-0.9116	362.959	Ortadogu Anadolu
+10	1	3	2	2	2	2	2	2	2	0.1361	539.836	Akdeniz
+10	1	3	4	4	4	2	2	2	2	-0.8704	550.457	Ege
+10	1	3	3	3	3	3	3	3	3	-1.0524	353.522	Bati Anadolu
+10	2	2	2	2	2	3	2	2	2	0.0996	392.08	Guneydogu Anadolu
+10	2	1	1	2	2	3	4	4	3	-0.4291	383.651	Orta Anadolu
+10	2	2	1	2	1	2	1	3	1	0.9527	439.137	Dogu Karadeniz
+10	2	3	2	2	2	3	2	2	3	-0.2426	551.827	Bati Anadolu
+10	2	3	3	3	3	3	3	2	2	-0.7304	474.52	Istanbul
+10	2	1	1	1	1	1	1	1	1	3.2775	384.166	Ege
+10	1	2	3	3	1	1	1	1	1	1.0084	421.683	Guneydogu Anadolu
+10	1	2	1	1	1	2	2	4	1	0.7341	488.052	Bati Anadolu
+10	2	3	4	3	3	3	4	4	4	-1.782	488.429	Istanbul
+10	2	2	2	2	2	2	2	2	2	0.3155	512.916	Ege
+10	1	2	1	3	2	2	1	3	3	0.112	455.611	Dogu Karadeniz
+10	2	1	1	2	1	1	1	1	1	2.3272	515.233	Istanbul
+11	2	2	1	2	1	2	1	1	1	1.4737	345.602	Guneydogu Anadolu
+11	1	1	4	4	4	3	1	1	1	-0.2653	348.689	Bati Karadeniz
+11	2	2	2	2	2	2	2	2	2	0.3155	328.264	Guneydogu Anadolu
+11	1	1	2	2	2	1	1	2	2	0.9722	545.776	Kuzeydogu Anadolu
+11	1	2	1	2	2	2	2	1	1	0.9338	614.778	Akdeniz
+11	1	1	1	2	2	2	2	1	1	1.1663	371.532	Kuzeydogu Anadolu
+11	1	2	2	2	2	2	2	4	4	-0.3893	315.43	Kuzeydogu Anadolu
+11	1	4	4	4	4	4	4	4	4	-3.7565	410.276	Guneydogu Anadolu
+11	2	2	2	2	2	2	2	2	2	0.3155	510.86	Guneydogu Anadolu
+11	2	3	2	3	4	3	3	3	2	-0.9093	377.841	Ege
+11	1	3	3	3	3	3	2	3	3	-0.891	479.034	Akdeniz
+11	1	2	2	3	2	2	2	1	1	0.5092	610.754	Akdeniz
+11	1	4	2	4	2	4	4	4	4	-1.8236	269.243	Ortadogu Anadolu
+11	1	4	4	4	4	4	4	4	4	-3.7565	474.609	Istanbul
+11	2	1	2	2	3	3	4	3	4	-0.753	500.363	Bati Anadolu
+11	1	2	2	4	4	3	2	3	2	-0.7612	421.428	Guneydogu Anadolu
+11	2	2	2	1	2	2	3	3	2	0.1334	403.42	Akdeniz
+11	1	2	1	2	1	3	2	1	1	0.9136	431.358	Guneydogu Anadolu
+11	1	2	2	1	2	2	2	2	2	0.5172	415.436	Guneydogu Anadolu
+11	1	2	2	2	2	2	1	2	2	0.5125	361.455	Kuzeydogu Anadolu
+11	2	2	3	2	3	4	3	3	3	-0.9181	495.99	Akdeniz
+11	1	3	2	1	3	2	4	2	1	-0.0479	428.791	Bati Marmara
+11	1	2	3	3	3	2	2	2	3	-0.3947	493.319	Guneydogu Anadolu
+11	1	4	2	4	4	4	3	4	4	-2.1116	427.54	Orta Anadolu
+11	1	2	1	1	2	1	3	2	4	0.3339	412.753	Akdeniz
+11	2	1	1	1	1	1	1	1	1	3.2775	412.97	Bati Anadolu
+11	1	4	1	4	4	1	4	1	1	-0.3857	522.953	Bati Anadolu
+11	1	3	3	3	4	4	4	4	4	-2.1009	291.735	Kuzeydogu Anadolu
+11	2	2	2	1	2	2	2	4	2	0.1344	384.625	Orta Anadolu
+11	1	1	2	1	1	2	1	2	2	1.2032	406.916	Ortadogu Anadolu

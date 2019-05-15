@@ -1,0 +1,5 @@
+ogrenci	kangrubu
+Zeynep Turan	ARh(-)
+Zeynep Inal	0Rh(+)
+Can Eser	ARh(+)
+Su Sonmez	ABRh(-)

@@ -1,0 +1,13 @@
+2-PL MTK Modeli Analizi
+>COMMENT
+>GLOBAL DFName='data2PL.dat', NParm=2, Logistic, Save;
+>SAVE Parm='2PL30.par', Score='2PL30.sco';
+>LENGTH NItems=(30);
+>INPUT NTotal=30, NIDchar=3;
+>ITEMS INames=(ITEM01(1)ITEM30);
+>TEST1 TName='TEST0001', INumber=(1(1)30);
+(3A1,30A1)
+>CALIB Cycles=50, Newton=20, Accel=1.0000, Empirical, 
+               NOSprior,
+CHIsquare=(20, 10);
+>SCORE;

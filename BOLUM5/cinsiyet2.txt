@@ -1,0 +1,5 @@
+ad soyad cinsiyet
+Mert Kaya Erkek
+Zeynep Turan Kiz
+Zeynep Inal Kiz
+Can Eser Erkek
