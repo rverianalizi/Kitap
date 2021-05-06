@@ -89,6 +89,10 @@ dev.off()
 
 RMSE <- read.csv("RMSE.csv", sep = ",", header = T)
 
+RMSE$Madde.Sayisi= as.factor(RMSE$Madde.Sayisi)
+RMSE$Boyutlararasi_Kor= as.factor(RMSE$Boyutlararasi_Kor)
+RMSE$Kalibrasyon= as.factor(RMSE$Kalibrasyon)
+
 names(RMSE)
 par.settings <- list(superpose.symbol = list(col = c("red", "green",
                                                      "blue", "black"),
